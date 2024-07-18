@@ -1,4 +1,4 @@
-# RapiFuzz assignment project
+# security example project
 
 #### An API-driven web application developed with Spring Boot and PostgreSQL for efficient incident reporting, management, and resolution. Features include user authentication with JWT, role-based access control, and comprehensive incident CRUD operations.
 ## Table of Contents
